@@ -34,7 +34,7 @@ Contributors
 
 Chloe James(JMSCHL002)
 
-Mitra Ramchuran(RMCMIT)
+Mitra Ramchuran(RMCMIT001)
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details
