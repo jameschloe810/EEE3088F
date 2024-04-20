@@ -12,24 +12,28 @@ Power: Powers the entire system, operates two motors, charges a battery, and pro
 Power Subsystem
 The power subsystem must meet the following requirements:
 
-Operate two motors efficiently.
-Charge a battery from a 5V input.
-Provide analog battery voltage sensing for monitoring the state of charge (SoC).
-Include an ON/OFF switch for controlling power to the system.
+- Operate two motors efficiently.
+- Charge a battery from a 5V input.
+- Provide analog battery voltage sensing for monitoring the state of charge (SoC).
+- Include an ON/OFF switch for controlling power to the system.
 
 Sensing Subsystem
 The sensing subsystem must meet the following requirements:
 
-Detect objects in the robot's environment.
-Provide data to the processor for navigation and obstacle avoidance.
-Integrate with the motherboard for communication and data transfer.
+- Detect objects in the robot's environment.
+- Provide data to the processor for navigation and obstacle avoidance.
+- Integrate with the motherboard for communication and data transfer.
 
 How to Use
+
 Assembly: Follow the provided assembly instructions to connect the power and sensing subsystems to the motherboard.
 Testing: Use the provided testing procedures to verify that the power and sensing subsystems meet all requirements and specifications.
 Integration: Integrate the power and sensing subsystems with the rest of the robot system, ensuring proper functionality and communication between modules.
+
 Contributors
+
 Chloe James
 Mitra Ramchuran
+
 License
 This project is licensed under the MIT License. See the LICENSE file for details
