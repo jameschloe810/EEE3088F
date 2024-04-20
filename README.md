@@ -32,8 +32,9 @@ Integration: Integrate the power and sensing subsystems with the rest of the rob
 
 Contributors
 
-Chloe James
-Mitra Ramchuran
+Chloe James(JMSCHL002)
+
+Mitra Ramchuran(RMCMIT)
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details
