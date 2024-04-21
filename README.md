@@ -1,9 +1,11 @@
 # EEE3088F
 Micro-Mouse Robot Project
 Overview
+
 This project involves designing and implementing a micro-mouse robot, focusing on the design of the hardware power and sensing subsystems. The project is divided into four modules: the processor, motherboard, sensing, and power.
 
 Project Structure
+
 Processor: Utilizes an STM32L476 microcontroller for processing tasks.
 Motherboard: Connects all PCBs together and serves as the base board for other modules.
 Sensing: Responsible for detecting and sensing objects.
