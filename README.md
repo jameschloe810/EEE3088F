@@ -32,7 +32,9 @@ The sensing subsystem must meet the following requirements:
 How to Use
 
 Assembly: Follow the provided assembly instructions to connect the power and sensing subsystems to the motherboard.
+
 Testing: Use the provided testing procedures to verify that the power and sensing subsystems meet all requirements and specifications.
+
 Integration: Integrate the power and sensing subsystems with the rest of the robot system, ensuring proper functionality and communication between modules.
 
 Contributors
