@@ -7,8 +7,11 @@ This project involves designing and implementing a micro-mouse robot, focusing o
 Project Structure
 
 Processor: Utilizes an STM32L476 microcontroller for processing tasks.
+
 Motherboard: Connects all PCBs together and serves as the base board for other modules.
+
 Sensing: Responsible for detecting and sensing objects.
+
 Power: Powers the entire system, operates two motors, charges a battery, and provides battery voltage sensing.
 
 Power Subsystem
